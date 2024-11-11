@@ -1,3 +1,5 @@
+//produtoModel
+
 const db = require('../config/db');
 
 const Produto = {
